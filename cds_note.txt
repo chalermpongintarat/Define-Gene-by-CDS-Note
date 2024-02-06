@@ -1,0 +1,19 @@
+L40898.1	ORF3
+L40898.1	ORF4
+L40898.1	ORF5
+L40898.1	ORF6
+L40898.1	ORF7
+S73924.1	None
+S71660.1	None
+U02095.1	None
+U03040.1	None
+U03040.1	glycosylated
+U03040.1	glycosylated
+U03040.1	None
+L04493.1	putative
+L04493.1	ORF2; putative
+L04493.1	ORF3; putative
+L04493.1	ORF4; putative
+L04493.1	ORF5; putative
+L04493.1	ORF6; putative
+L04493.1	ORF7; putative

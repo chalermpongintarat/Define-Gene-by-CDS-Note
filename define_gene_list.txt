@@ -1,0 +1,14 @@
+ORF3, ORF4, ORF5, ORF6, ORF7
+None
+None
+None
+None, glycosylated, glycosylated, None
+putative, ORF2; putative, ORF3; putative, ORF4; putative, ORF5; putative, ORF6; putative, ORF7; putative
+
+
+
+
+
+
+
+
